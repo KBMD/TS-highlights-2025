@@ -1,5 +1,4 @@
 # Draft of *Tourette syndrome research highlights from 2025* by Hartman et al
-**Below the horizontal rule is generic information about this collaborative writing platform.**
 
 What you see here is just a *very* early draft or playing around, to see if this platform works for us.
 
@@ -39,6 +38,9 @@ All other files are only available under CC BY 4.0, including:
 + `*.docx`
 
 Please open [an issue](https://github.com/KBMD/TS-highlights-2025/issues) for any question related to licensing.
+
+## Below the horizontal rule is generic information about this collaborative writing platform.
+
 
 
 ---
