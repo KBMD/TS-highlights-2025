@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/KBMD/TS-highlights-2025/tree/gh-pages) branch hosts the contents of this directory at <https://KBMD.github.io/TS-highlights-2025/>.
-The permalink for this webpage version is <https://KBMD.github.io/TS-highlights-2025/v/ca748bf4e80a830d7bee69a20b1fae18e028d9e6/>.
+The permalink for this webpage version is <https://KBMD.github.io/TS-highlights-2025/v/06f096e273dd82edcd7573d97b3b15aaad9b9305/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://KBMD.github.io/TS-highlights-2025/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`ca748bf4e80a830d7bee69a20b1fae18e028d9e6`](https://github.com/KBMD/TS-highlights-2025/commit/ca748bf4e80a830d7bee69a20b1fae18e028d9e6).
+[`06f096e273dd82edcd7573d97b3b15aaad9b9305`](https://github.com/KBMD/TS-highlights-2025/commit/06f096e273dd82edcd7573d97b3b15aaad9b9305).
