@@ -1,30 +1,47 @@
 ---
-title: "Manuscript Title"
+title: "Tourette syndrome research highlights from 2025"
 date: null  # Defaults to date generated, but can specify like '2022-10-31'.
 keywords:
-  - markdown
-  - publishing
+  - Tourette syndrome
+  - research
   - manubot
+  - draft
+  - collaborative online writing platform
 lang: en-US
 authors:
-  - github: johndoe
-    name: John Doe
-    initials: JD
-    orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: johndoe
-    mastodon: johndoe
-    mastodon-server: mastodon.social
-    email: john.doe@something.com
-    affiliations:
-      - Department of Something, University of Whatever
-    funders:
-      - Grant XXXXXXXX
   - github: janeroe
     name: Jane Roe
     initials: JR
     orcid: XXXX-XXXX-XXXX-XXXX
+    twitter: johndoe
+    mastodon: johndoe
+    mastodon-server: mastodon.social
     email: jane.roe@whatever.edu
     affiliations:
       - Department of Something, University of Whatever
       - Department of Whatever, University of Something
+    corresponding: false
+  - github: janeroe1
+    name: Jane Roe1
+    initials: JR1
+    orcid: XXXX-XXXX-XXXX-XXXX1
+    twitter: johndoe1
+    mastodon: johndoe1
+    mastodon-server: mastodon.social
+    email: jane.roe@whatever.edu1
+    affiliations:
+      - Department of Something, University of Whatever1
+      - Department of Whatever, University of Something1
+    corresponding: false
+  - github: KBMD
+    name: Kevin J. Black, M.D.
+    initials: KJB
+    orcid: 0000-0002-6921-9567
+    bluesky: kjbinstl
+    bluesky-server: bsky.social
+    email: kevin@wustl.edu
+    affiliations:
+      - Departments of Psychiatry, of Neurology, of Radiology, and of Neuroscience, Washington University in St. Louis School of Medicine
+    funders:
+      - (U.S.) National Institute of Mental Health grants 1R01MH127187 and 1R01MH126213
     corresponding: true
