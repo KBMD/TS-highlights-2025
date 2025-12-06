@@ -1,14 +1,17 @@
 ---
-title: Manuscript Title
+title: Tourette syndrome research highlights from 2025
 keywords:
-- markdown
-- publishing
+- Tourette syndrome
+- research
 - manubot
+- draft
+- collaborative online writing platform
 lang: en-US
 date-meta: '2025-12-06'
 author-meta:
-- John Doe
 - Jane Roe
+- Jane Roe1
+- Kevin J. Black, M.D.
 header-includes: |
   <!--
   Manubot generated metadata rendered from header-includes-template.html.
@@ -16,38 +19,43 @@ header-includes: |
   -->
   <meta name="dc.format" content="text/html" />
   <meta property="og:type" content="article" />
-  <meta name="dc.title" content="Manuscript Title" />
-  <meta name="citation_title" content="Manuscript Title" />
-  <meta property="og:title" content="Manuscript Title" />
-  <meta property="twitter:title" content="Manuscript Title" />
+  <meta name="dc.title" content="Tourette syndrome research highlights from 2025" />
+  <meta name="citation_title" content="Tourette syndrome research highlights from 2025" />
+  <meta property="og:title" content="Tourette syndrome research highlights from 2025" />
+  <meta property="twitter:title" content="Tourette syndrome research highlights from 2025" />
   <meta name="dc.date" content="2025-12-06" />
   <meta name="citation_publication_date" content="2025-12-06" />
   <meta property="article:published_time" content="2025-12-06" />
-  <meta name="dc.modified" content="2025-12-06T22:01:25+00:00" />
-  <meta property="article:modified_time" content="2025-12-06T22:01:25+00:00" />
+  <meta name="dc.modified" content="2025-12-06T22:12:35+00:00" />
+  <meta property="article:modified_time" content="2025-12-06T22:12:35+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
   <meta name="dc.publisher" content="Manubot" />
   <meta name="citation_journal_title" content="Manubot" />
   <meta name="citation_technical_report_institution" content="Manubot" />
-  <meta name="citation_author" content="John Doe" />
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
-  <meta name="twitter:creator" content="@johndoe" />
   <meta name="citation_author" content="Jane Roe" />
   <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
   <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
   <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
+  <meta name="twitter:creator" content="@johndoe" />
+  <meta name="citation_author" content="Jane Roe1" />
+  <meta name="citation_author_institution" content="Department of Something, University of Whatever1" />
+  <meta name="citation_author_institution" content="Department of Whatever, University of Something1" />
+  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX1" />
+  <meta name="twitter:creator" content="@johndoe1" />
+  <meta name="citation_author" content="Kevin J. Black, M.D." />
+  <meta name="citation_author_institution" content="Departments of Psychiatry, of Neurology, of Radiology, and of Neuroscience, Washington University in St. Louis School of Medicine" />
+  <meta name="citation_author_orcid" content="0000-0002-6921-9567" />
   <link rel="canonical" href="https://KBMD.github.io/TS-highlights-2025/" />
   <meta property="og:url" content="https://KBMD.github.io/TS-highlights-2025/" />
   <meta property="twitter:url" content="https://KBMD.github.io/TS-highlights-2025/" />
   <meta name="citation_fulltext_html_url" content="https://KBMD.github.io/TS-highlights-2025/" />
   <meta name="citation_pdf_url" content="https://KBMD.github.io/TS-highlights-2025/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://KBMD.github.io/TS-highlights-2025/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://KBMD.github.io/TS-highlights-2025/v/772c9e6e53c33e06cdc89c13bdb1c09eb2e847fb/" />
-  <meta name="manubot_html_url_versioned" content="https://KBMD.github.io/TS-highlights-2025/v/772c9e6e53c33e06cdc89c13bdb1c09eb2e847fb/" />
-  <meta name="manubot_pdf_url_versioned" content="https://KBMD.github.io/TS-highlights-2025/v/772c9e6e53c33e06cdc89c13bdb1c09eb2e847fb/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://KBMD.github.io/TS-highlights-2025/v/51834e6187529408751d3cf006302df3e2deb8b9/" />
+  <meta name="manubot_html_url_versioned" content="https://KBMD.github.io/TS-highlights-2025/v/51834e6187529408751d3cf006302df3e2deb8b9/" />
+  <meta name="manubot_pdf_url_versioned" content="https://KBMD.github.io/TS-highlights-2025/v/51834e6187529408751d3cf006302df3e2deb8b9/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,9 +77,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://KBMD.github.io/TS-highlights-2025/v/772c9e6e53c33e06cdc89c13bdb1c09eb2e847fb/))
+([permalink](https://KBMD.github.io/TS-highlights-2025/v/51834e6187529408751d3cf006302df3e2deb8b9/))
 was automatically generated
-from [KBMD/TS-highlights-2025@772c9e6](https://github.com/KBMD/TS-highlights-2025/tree/772c9e6e53c33e06cdc89c13bdb1c09eb2e847fb)
+from [KBMD/TS-highlights-2025@51834e6](https://github.com/KBMD/TS-highlights-2025/tree/51834e6187529408751d3cf006302df3e2deb8b9)
 on December 6, 2025.
 </em></small>
 
@@ -81,38 +89,53 @@ on December 6, 2025.
 
 
 
-+ **John Doe**
++ **Jane Roe**
   <br>
     ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
     [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
     · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [johndoe](https://github.com/johndoe)
+    [janeroe](https://github.com/janeroe)
     · ![Twitter icon](images/twitter.svg){.inline_icon width=16 height=16}
     [johndoe](https://twitter.com/johndoe)
     · ![Mastodon icon](images/mastodon.svg){.inline_icon width=16 height=16}
     [\@johndoe@mastodon.social](https://mastodon.social/@johndoe)
     <br>
   <small>
-     Department of Something, University of Whatever
-     · Funded by Grant XXXXXXXX
+     Department of Something, University of Whatever; Department of Whatever, University of Something
   </small>
 
-+ **Jane Roe**
-  ^[✉](#correspondence)^<br>
++ **Jane Roe1**
+  <br>
     ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
+    [XXXX-XXXX-XXXX-XXXX1](https://orcid.org/XXXX-XXXX-XXXX-XXXX1)
     · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [janeroe](https://github.com/janeroe)
+    [janeroe1](https://github.com/janeroe1)
+    · ![Twitter icon](images/twitter.svg){.inline_icon width=16 height=16}
+    [johndoe1](https://twitter.com/johndoe1)
+    · ![Mastodon icon](images/mastodon.svg){.inline_icon width=16 height=16}
+    [\@johndoe1@mastodon.social](https://mastodon.social/@johndoe1)
     <br>
   <small>
-     Department of Something, University of Whatever; Department of Whatever, University of Something
+     Department of Something, University of Whatever1; Department of Whatever, University of Something1
+  </small>
+
++ **Kevin J. Black, M.D.**
+  ^[✉](#correspondence)^<br>
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
+    [0000-0002-6921-9567](https://orcid.org/0000-0002-6921-9567)
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
+    [KBMD](https://github.com/KBMD)
+    <br>
+  <small>
+     Departments of Psychiatry, of Neurology, of Radiology, and of Neuroscience, Washington University in St. Louis School of Medicine
+     · Funded by (U.S.) National Institute of Mental Health grants 1R01MH127187 and 1R01MH126213
   </small>
 
 
 ::: {#correspondence}
 ✉ — Correspondence possible via [GitHub Issues](https://github.com/KBMD/TS-highlights-2025/issues)
 or email to
-Jane Roe \<jane.roe@whatever.edu\>.
+Kevin J. Black, M.D. \<kevin@wustl.edu\>.
 
 
 :::
